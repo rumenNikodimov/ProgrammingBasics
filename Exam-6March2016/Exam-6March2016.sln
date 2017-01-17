@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. On Time for the Exam", "03. On Time for the Exam\03. On Time for the Exam.csproj", "{C77AAD26-F08F-45A4-9CC2-026640E0B908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Draw Fort", "05. Draw Fort\05. Draw Fort.csproj", "{8AA075D3-C5C0-4D9B-9645-2A865DF24B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Stupid Password Generator", "06. Stupid Password Generator\06. Stupid Password Generator.csproj", "{D135A61E-1884-4C5E-9D34-258CCEFD48E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Histogram", "04. Histogram\04. Histogram.csproj", "{D519EC27-2AC9-4195-828D-9A15D7F16ACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stupid pass 1", "Stupid pass 1\Stupid pass 1.csproj", "{D049A0C9-9CD4-4E05-BCED-AA2025A29A04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "histgram1", "histgram1\histgram1.csproj", "{96FFFA25-4A1A-48F9-B7BC-DA0A46F33D23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PEPERUDA", "PEPERUDA\PEPERUDA.csproj", "{1DA26C8E-9B68-4196-842A-39CC12C1A4C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C77AAD26-F08F-45A4-9CC2-026640E0B908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77AAD26-F08F-45A4-9CC2-026640E0B908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C77AAD26-F08F-45A4-9CC2-026640E0B908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77AAD26-F08F-45A4-9CC2-026640E0B908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA075D3-C5C0-4D9B-9645-2A865DF24B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA075D3-C5C0-4D9B-9645-2A865DF24B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA075D3-C5C0-4D9B-9645-2A865DF24B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA075D3-C5C0-4D9B-9645-2A865DF24B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D135A61E-1884-4C5E-9D34-258CCEFD48E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D135A61E-1884-4C5E-9D34-258CCEFD48E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D135A61E-1884-4C5E-9D34-258CCEFD48E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D135A61E-1884-4C5E-9D34-258CCEFD48E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D519EC27-2AC9-4195-828D-9A15D7F16ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D519EC27-2AC9-4195-828D-9A15D7F16ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D519EC27-2AC9-4195-828D-9A15D7F16ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D519EC27-2AC9-4195-828D-9A15D7F16ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D049A0C9-9CD4-4E05-BCED-AA2025A29A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D049A0C9-9CD4-4E05-BCED-AA2025A29A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D049A0C9-9CD4-4E05-BCED-AA2025A29A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D049A0C9-9CD4-4E05-BCED-AA2025A29A04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96FFFA25-4A1A-48F9-B7BC-DA0A46F33D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96FFFA25-4A1A-48F9-B7BC-DA0A46F33D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96FFFA25-4A1A-48F9-B7BC-DA0A46F33D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96FFFA25-4A1A-48F9-B7BC-DA0A46F33D23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DA26C8E-9B68-4196-842A-39CC12C1A4C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA26C8E-9B68-4196-842A-39CC12C1A4C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA26C8E-9B68-4196-842A-39CC12C1A4C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA26C8E-9B68-4196-842A-39CC12C1A4C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
